@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=BANCO
+comment1.params=nit\ nombreSEDE\ direccion
+comment1.target=BANCO(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNit()
+comment3.params=
+comment3.target=java.lang.String\ getnombreSEDE()
+comment4.params=nombreSEDE
+comment4.target=void\ setnombreSEDE(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getDireccion()
+comment6.params=direccion
+comment6.target=void\ setDireccion(java.lang.String)
+comment7.params=
+comment7.target=int\ getnumSEDES()
+comment8.params=
+comment8.target=double\ calcularPromedioGeneral()
+comment9.params=identificacion\ nombre\ curso\ notauno\ notados\ notatres
+comment9.target=void\ adicionarsede(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double,\ double)
+numComments=10
