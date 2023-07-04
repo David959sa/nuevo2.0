@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Cundinamarca
+comment1.params=identificacion\ nombre\ identiAsesor\ prest1\ prest2\ prest3\ prest4
+comment1.target=Cundinamarca(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double,\ double,\ double)
+comment10.params=prest4
+comment10.target=void\ setprest4(double)
+comment2.params=
+comment2.target=double\ calcularPromedio()
+comment3.params=
+comment3.target=double\ getprest1()
+comment4.params=prest1
+comment4.target=void\ setprest1(double)
+comment5.params=
+comment5.target=double\ getprest2()
+comment6.params=prest2
+comment6.target=void\ setprest2(double)
+comment7.params=
+comment7.target=double\ getprest3()
+comment8.params=prest3
+comment8.target=void\ setprest3(double)
+comment9.params=
+comment9.target=double\ getprest4()
+numComments=11
