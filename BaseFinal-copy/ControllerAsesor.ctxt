@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ControllerAsesor
+comment1.params=
+comment1.target=ControllerAsesor()
+comment2.params=sedes
+comment2.target=void\ registrar(Asesor)
+comment3.params=sedes
+comment3.target=void\ actualizar(Asesor)
+comment4.params=sedes
+comment4.target=void\ eliminar(Asesor)
+comment5.params=
+comment5.target=void\ verAsesors()
+comment6.params=id
+comment6.target=Asesor\ obtenerAsesorPorId(int)
+comment7.params=mensaje\ e
+comment7.target=void\ mostrarError(java.lang.String,\ java.lang.Exception)
+numComments=8

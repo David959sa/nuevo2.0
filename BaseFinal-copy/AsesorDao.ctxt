@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AsesorDao
+comment1.params=sedes
+comment1.target=boolean\ registrarAsesor(Asesor)
+comment2.params=
+comment2.target=java.util.List\ obtenerAsesor()
+comment3.params=sedes
+comment3.target=boolean\ actualizarAsesor(Asesor)
+comment4.params=sedes
+comment4.target=boolean\ eliminarAsesor(Asesor)
+comment5.params=id
+comment5.target=Asesor\ obtenerAsesorPorId(int)
+numComments=6

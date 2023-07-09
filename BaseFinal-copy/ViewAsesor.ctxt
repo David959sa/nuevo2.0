@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ViewAsesor
+comment1.params=sedes
+comment1.target=void\ verAsesor(Asesor)
+comment2.params=sedess
+comment2.target=void\ verAsesors(java.util.List)
+numComments=3

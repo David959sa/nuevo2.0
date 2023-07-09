@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=AsesorCRUD
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=message
+comment10.target=java.lang.String\ leerString(java.lang.String)
+comment2.params=
+comment2.target=void\ registrarAsesor()
+comment3.params=
+comment3.target=void\ actualizarAsesor()
+comment4.params=
+comment4.target=void\ eliminarAsesor()
+comment5.params=
+comment5.target=void\ listarAsesors()
+comment6.params=
+comment6.target=void\ consultarAsesorPorID()
+comment7.params=
+comment7.target=Asesor\ guardarAsesor()
+comment8.params=
+comment8.target=int\ leerId()
+comment9.params=message
+comment9.target=double\ leerValor(java.lang.String)
+numComments=11
